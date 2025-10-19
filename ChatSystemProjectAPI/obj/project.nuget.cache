@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tp87RbUSyjk=",
+  "success": true,
+  "projectFilePath": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProjectAPI\\ChatSystemProjectAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\am567\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\am567\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\am567\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
