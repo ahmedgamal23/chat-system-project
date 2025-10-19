@@ -1,12 +1,258 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "H:\\freelance projects\\ChatSystemProject\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CC6E5-8DB4-4C24-A6F1-8909026BE9CD}|ChatSystemProject.Domain\\ChatSystemProject.Domain.csproj|h:\\freelance projects\\chatsystemproject\\chatsystemproject.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86CC6E5-8DB4-4C24-A6F1-8909026BE9CD}|ChatSystemProject.Domain\\ChatSystemProject.Domain.csproj|solutionrelative:chatsystemproject.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|H:\\freelance projects\\ChatSystemProject\\structure.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:structure.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CC6E5-8DB4-4C24-A6F1-8909026BE9CD}|ChatSystemProject.Domain\\ChatSystemProject.Domain.csproj|h:\\freelance projects\\chatsystemproject\\chatsystemproject.domain\\entities\\messagestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86CC6E5-8DB4-4C24-A6F1-8909026BE9CD}|ChatSystemProject.Domain\\ChatSystemProject.Domain.csproj|solutionrelative:chatsystemproject.domain\\entities\\messagestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CC6E5-8DB4-4C24-A6F1-8909026BE9CD}|ChatSystemProject.Domain\\ChatSystemProject.Domain.csproj|h:\\freelance projects\\chatsystemproject\\chatsystemproject.domain\\entities\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86CC6E5-8DB4-4C24-A6F1-8909026BE9CD}|ChatSystemProject.Domain\\ChatSystemProject.Domain.csproj|solutionrelative:chatsystemproject.domain\\entities\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CC6E5-8DB4-4C24-A6F1-8909026BE9CD}|ChatSystemProject.Domain\\ChatSystemProject.Domain.csproj|h:\\freelance projects\\chatsystemproject\\chatsystemproject.domain\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86CC6E5-8DB4-4C24-A6F1-8909026BE9CD}|ChatSystemProject.Domain\\ChatSystemProject.Domain.csproj|solutionrelative:chatsystemproject.domain\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CC6E5-8DB4-4C24-A6F1-8909026BE9CD}|ChatSystemProject.Domain\\ChatSystemProject.Domain.csproj|h:\\freelance projects\\chatsystemproject\\chatsystemproject.domain\\entities\\chatparticipants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86CC6E5-8DB4-4C24-A6F1-8909026BE9CD}|ChatSystemProject.Domain\\ChatSystemProject.Domain.csproj|solutionrelative:chatsystemproject.domain\\entities\\chatparticipants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CC6E5-8DB4-4C24-A6F1-8909026BE9CD}|ChatSystemProject.Domain\\ChatSystemProject.Domain.csproj|h:\\freelance projects\\chatsystemproject\\chatsystemproject.domain\\entities\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86CC6E5-8DB4-4C24-A6F1-8909026BE9CD}|ChatSystemProject.Domain\\ChatSystemProject.Domain.csproj|solutionrelative:chatsystemproject.domain\\entities\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CC6E5-8DB4-4C24-A6F1-8909026BE9CD}|ChatSystemProject.Domain\\ChatSystemProject.Domain.csproj|h:\\freelance projects\\chatsystemproject\\chatsystemproject.domain\\entities\\usersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86CC6E5-8DB4-4C24-A6F1-8909026BE9CD}|ChatSystemProject.Domain\\ChatSystemProject.Domain.csproj|solutionrelative:chatsystemproject.domain\\entities\\usersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CC6E5-8DB4-4C24-A6F1-8909026BE9CD}|ChatSystemProject.Domain\\ChatSystemProject.Domain.csproj|h:\\freelance projects\\chatsystemproject\\chatsystemproject.domain\\entities\\userstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86CC6E5-8DB4-4C24-A6F1-8909026BE9CD}|ChatSystemProject.Domain\\ChatSystemProject.Domain.csproj|solutionrelative:chatsystemproject.domain\\entities\\userstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CC6E5-8DB4-4C24-A6F1-8909026BE9CD}|ChatSystemProject.Domain\\ChatSystemProject.Domain.csproj|h:\\freelance projects\\chatsystemproject\\chatsystemproject.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86CC6E5-8DB4-4C24-A6F1-8909026BE9CD}|ChatSystemProject.Domain\\ChatSystemProject.Domain.csproj|solutionrelative:chatsystemproject.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CC6E5-8DB4-4C24-A6F1-8909026BE9CD}|ChatSystemProject.Domain\\ChatSystemProject.Domain.csproj|h:\\freelance projects\\chatsystemproject\\chatsystemproject.domain\\entities\\blockeduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86CC6E5-8DB4-4C24-A6F1-8909026BE9CD}|ChatSystemProject.Domain\\ChatSystemProject.Domain.csproj|solutionrelative:chatsystemproject.domain\\entities\\blockeduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CC6E5-8DB4-4C24-A6F1-8909026BE9CD}|ChatSystemProject.Domain\\ChatSystemProject.Domain.csproj|h:\\freelance projects\\chatsystemproject\\chatsystemproject.domain\\entities\\favouritechat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86CC6E5-8DB4-4C24-A6F1-8909026BE9CD}|ChatSystemProject.Domain\\ChatSystemProject.Domain.csproj|solutionrelative:chatsystemproject.domain\\entities\\favouritechat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CC6E5-8DB4-4C24-A6F1-8909026BE9CD}|ChatSystemProject.Domain\\ChatSystemProject.Domain.csproj|h:\\freelance projects\\chatsystemproject\\chatsystemproject.domain\\entities\\favouritemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86CC6E5-8DB4-4C24-A6F1-8909026BE9CD}|ChatSystemProject.Domain\\ChatSystemProject.Domain.csproj|solutionrelative:chatsystemproject.domain\\entities\\favouritemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CC6E5-8DB4-4C24-A6F1-8909026BE9CD}|ChatSystemProject.Domain\\ChatSystemProject.Domain.csproj|h:\\freelance projects\\chatsystemproject\\chatsystemproject.domain\\entities\\messagereaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86CC6E5-8DB4-4C24-A6F1-8909026BE9CD}|ChatSystemProject.Domain\\ChatSystemProject.Domain.csproj|solutionrelative:chatsystemproject.domain\\entities\\messagereaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserSettings.cs",
+              "DocumentMoniker": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProject.Domain\\Entities\\UserSettings.cs",
+              "RelativeDocumentMoniker": "ChatSystemProject.Domain\\Entities\\UserSettings.cs",
+              "ToolTip": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProject.Domain\\Entities\\UserSettings.cs",
+              "RelativeToolTip": "ChatSystemProject.Domain\\Entities\\UserSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:44:51.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BlockedUser.cs",
+              "DocumentMoniker": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProject.Domain\\Entities\\BlockedUser.cs",
+              "RelativeDocumentMoniker": "ChatSystemProject.Domain\\Entities\\BlockedUser.cs",
+              "ToolTip": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProject.Domain\\Entities\\BlockedUser.cs",
+              "RelativeToolTip": "ChatSystemProject.Domain\\Entities\\BlockedUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:40:56.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProject.Domain\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "ChatSystemProject.Domain\\Entities\\Notification.cs",
+              "ToolTip": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProject.Domain\\Entities\\Notification.cs",
+              "RelativeToolTip": "ChatSystemProject.Domain\\Entities\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:37:04.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FavouriteChat.cs",
+              "DocumentMoniker": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProject.Domain\\Entities\\FavouriteChat.cs",
+              "RelativeDocumentMoniker": "ChatSystemProject.Domain\\Entities\\FavouriteChat.cs",
+              "ToolTip": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProject.Domain\\Entities\\FavouriteChat.cs",
+              "RelativeToolTip": "ChatSystemProject.Domain\\Entities\\FavouriteChat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:36:07.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FavouriteMessage.cs",
+              "DocumentMoniker": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProject.Domain\\Entities\\FavouriteMessage.cs",
+              "RelativeDocumentMoniker": "ChatSystemProject.Domain\\Entities\\FavouriteMessage.cs",
+              "ToolTip": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProject.Domain\\Entities\\FavouriteMessage.cs",
+              "RelativeToolTip": "ChatSystemProject.Domain\\Entities\\FavouriteMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:29:58.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserStatus.cs",
+              "DocumentMoniker": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProject.Domain\\Entities\\UserStatus.cs",
+              "RelativeDocumentMoniker": "ChatSystemProject.Domain\\Entities\\UserStatus.cs",
+              "ToolTip": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProject.Domain\\Entities\\UserStatus.cs",
+              "RelativeToolTip": "ChatSystemProject.Domain\\Entities\\UserStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:46:41.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MessageReaction.cs",
+              "DocumentMoniker": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProject.Domain\\Entities\\MessageReaction.cs",
+              "RelativeDocumentMoniker": "ChatSystemProject.Domain\\Entities\\MessageReaction.cs",
+              "ToolTip": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProject.Domain\\Entities\\MessageReaction.cs",
+              "RelativeToolTip": "ChatSystemProject.Domain\\Entities\\MessageReaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:34:33.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Attachment.cs",
+              "DocumentMoniker": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProject.Domain\\Entities\\Attachment.cs",
+              "RelativeDocumentMoniker": "ChatSystemProject.Domain\\Entities\\Attachment.cs",
+              "ToolTip": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProject.Domain\\Entities\\Attachment.cs",
+              "RelativeToolTip": "ChatSystemProject.Domain\\Entities\\Attachment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:25:26.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageStatus.cs",
+              "DocumentMoniker": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProject.Domain\\Entities\\MessageStatus.cs",
+              "RelativeDocumentMoniker": "ChatSystemProject.Domain\\Entities\\MessageStatus.cs",
+              "ToolTip": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProject.Domain\\Entities\\MessageStatus.cs",
+              "RelativeToolTip": "ChatSystemProject.Domain\\Entities\\MessageStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:18:08.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatParticipants.cs",
+              "DocumentMoniker": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProject.Domain\\Entities\\ChatParticipants.cs",
+              "RelativeDocumentMoniker": "ChatSystemProject.Domain\\Entities\\ChatParticipants.cs",
+              "ToolTip": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProject.Domain\\Entities\\ChatParticipants.cs",
+              "RelativeToolTip": "ChatSystemProject.Domain\\Entities\\ChatParticipants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T15:27:26.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Message.cs",
+              "DocumentMoniker": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProject.Domain\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "ChatSystemProject.Domain\\Entities\\Message.cs",
+              "ToolTip": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProject.Domain\\Entities\\Message.cs",
+              "RelativeToolTip": "ChatSystemProject.Domain\\Entities\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T15:13:48.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProject.Domain\\Entities\\Chat.cs",
+              "RelativeDocumentMoniker": "ChatSystemProject.Domain\\Entities\\Chat.cs",
+              "ToolTip": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProject.Domain\\Entities\\Chat.cs",
+              "RelativeToolTip": "ChatSystemProject.Domain\\Entities\\Chat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T15:08:15.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProject.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ChatSystemProject.Domain\\Entities\\User.cs",
+              "ToolTip": "H:\\freelance projects\\ChatSystemProject\\ChatSystemProject.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "ChatSystemProject.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:58:59.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "structure.txt",
+              "DocumentMoniker": "H:\\freelance projects\\ChatSystemProject\\structure.txt",
+              "RelativeDocumentMoniker": "structure.txt",
+              "ToolTip": "H:\\freelance projects\\ChatSystemProject\\structure.txt",
+              "RelativeToolTip": "structure.txt",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-19T13:39:35.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
